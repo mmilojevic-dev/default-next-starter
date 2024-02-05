@@ -6,9 +6,9 @@ import type { Metadata } from 'next'
 // const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Next.js Starter',
+  title: 'Default Next.js Template',
   description:
-    'A boilerplate built to easily start with server-rendered React app development with Next.js.'
+    'A template built to easily start with server-rendered React app development with Next.js.'
 }
 
 export default function RootLayout({

@@ -1,6 +1,6 @@
-# Next.js Starter
+# Default Next.js Starter
 
-## A boilerplate built to easily start with server-rendered React app development with Next.js.
+## A template built to easily start with server-rendered React app development with Next.js.
 
 # Getting Started
 
