@@ -6,9 +6,9 @@ import type { Metadata } from 'next'
 // const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Next/TypeScript/Vite-Eslint-Prettier-TailwindCSS Starter',
+  title: 'Next.js Starter',
   description:
-    'A template built to easily start with server-rendered app development.'
+    'A boilerplate built to easily start with server-rendered React app development with Next.js.'
 }
 
 export default function RootLayout({
