@@ -54,26 +54,6 @@ const config = {
           foreground: 'hsl(var(--card-foreground))'
         }
       },
-      spacing: {
-        none: '0px',
-        tiny: '0.125rem', // 2px
-        min: '0.25rem', // 4px
-        xs: '0.5rem', // 8px
-        sm: '0.75rem', // 12px
-        base: '1rem', // 16px
-        md: '1.5rem', // 24px
-        lg: '2rem', // 32px
-        xl: '3rem', // 48px
-        '2xl': '4rem', // 64px
-        '3xl': '5rem', // 80px
-        '4xl': '6rem', // 96px
-        '5xl': '8rem', // 128px
-        '6xl': '10rem', // 160px
-        '7xl': '12rem', // 192px
-        '8xl': '14rem', // 224px
-        '9xl': '16rem', // 256px
-        '10xl': '18rem' // 288px
-      },
       screens: {
         mobile: '320px',
         // => @media (min-width: 320px) { ... }
