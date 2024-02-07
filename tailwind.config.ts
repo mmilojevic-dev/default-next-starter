@@ -58,7 +58,7 @@ const config = {
         none: '0px',
         tiny: '0.125rem', // 2px
         min: '0.25rem', // 4px
-        xsm: '0.5rem', // 8px
+        xs: '0.5rem', // 8px
         sm: '0.75rem', // 12px
         base: '1rem', // 16px
         md: '1.5rem', // 24px
